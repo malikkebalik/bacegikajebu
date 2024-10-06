@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://bacegikajebu.pages.dev/sitemap.xml
